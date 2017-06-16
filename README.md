@@ -4,7 +4,7 @@ An Image Streaming Application using Node.JS. Data is fetched from a POST reques
 # Installation
 npm install
 
-# Technologies User
+# Technologies Used
 Node.js, Express.js and Redis DB
 
 
